@@ -1,2 +1,2 @@
-dnspython>=2.7.0
 pymongo>=4.12.1
+uuid>=1.30

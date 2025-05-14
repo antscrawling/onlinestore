@@ -1,0 +1,14 @@
+pymongo>=4.12.1
+
+
+# docker-compose build    # build the image
+#docker-compose down
+#
+
+#docker-compose down
+# cd /Users/joseibay/Documents/onlinestore/src
+# python orders.py
+
+
+
+
